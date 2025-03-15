@@ -14,6 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Experienced Data Scientist with 7+ years of experience in data exploration, data cleaning, predictive modeling, and machine learning. Expertise in analyzing structured and unstructured data to derive actionable insights. Skilled in Python, R, SQL, and visualization tools like Tableau, Power BI, Seaborn, Plotly, and ggplot2. Experienced in building automated forecasting models using statistical methods and developing scalable data pipelines using Hadoop and Spark. Proven ability to deliver data-driven solutions that enhance decision-making, improve operational efficiency, and meet client objectives. My **achievements** and rewards include but are not limited to:
+
+✨ Best Outgoing Student award for academic excellence at MIT.	
+
+✨ Elected Treasurer of the Student Council, at MIT.	
+
+✨ Best Volunteer award at MahaTECH, Pune.	
+
+✨ Star Performer award of the peak season of 2020 at Amazon.
+
+✨ Elected Secretary of Alpha Alpha Alpha (Tri-Alpha) at UMass Boston.
+
+✨ Recognition for Leadership & Team achievement at Mercedes-Benz.
+
 🔭 I’m currently working on enhancing predictive models for customer segmentation and fraud detection using Python and machine learning techniques. </br>
 
 🌱 I’m currently learning advanced deep learning frameworks like PyTorch and diving deeper into time-series forecasting for financial data analysis. </br>
