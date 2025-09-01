@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Experienced Data Scientist with 7+ years of experience in data exploration, data cleaning, predictive modeling, and machine learning. Expertise in analyzing structured and unstructured data to derive actionable insights. Skilled in Python, R, SQL, and visualization tools like Tableau, Power BI, Seaborn, Plotly, and ggplot2. Experienced in building automated forecasting models using statistical methods and developing scalable data pipelines using Hadoop and Spark. Proven ability to deliver data-driven solutions that enhance decision-making, improve operational efficiency, and meet client objectives. My **achievements** and rewards include but are not limited to:
+My **achievements** and rewards include but are not limited to:
 
 ✨ Best Student award for academic excellence.	
 
